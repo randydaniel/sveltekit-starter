@@ -1,7 +1,3 @@
-<h1 class="text-3xl font-bold underline">Hello world!</h1>
-
-<style lang="postcss">
-	:global(html) {
-		background-color: theme(colors.gray.100);
-	}
-</style>
+<div class="h-screen flex items-center justify-center">
+	<h1 class="text-base font-medium">randy.digital</h1>
+</div>
